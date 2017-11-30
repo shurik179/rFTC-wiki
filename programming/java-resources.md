@@ -8,15 +8,15 @@ __This article is up to date as of Nov 30, 2017.__
 ### Learning Java
 Learning Source|Description
 :---------------------:|:-------------------------------------------
-University of Helsinki - Object Oriented programming with Java|An open course written by the Department of Computer Science at the University of Helsinki. This course will guide you through most of what you need to know for java programming in FTC. In addition, there is a part 2 to the course which introduces more advanced concepts. What set's this course apart from others is its "Test My Code" service, which allows you to submit solutions to the problems to be auto checked; so, if you mess up, you will know. The cons are that it can be somewhat reptitive with it's excersizes, and you will be required to do most of them.
+[University of Helsinki - Object Oriented programming with Java](http://mooc.fi/courses/2013/programming-part-1/)|An open course written by the Department of Computer Science at the University of Helsinki. This course will guide you through most of what you need to know for java programming in FTC. In addition, there is a part 2 to the course which introduces more advanced concepts. What set's this course apart from others is its "Test My Code" service, which allows you to submit solutions to the problems to be auto checked; so, if you mess up, you will know. The cons are that it can be somewhat reptitive with it's excersizes, and you will be required to do most of them.
 AP Computer Science Review Books|You don't have to be taking AP Computer Science to use the review books. Review books are highly condensed and cover the entirety of the AP curriculum, which includes topics which are neccesary for a good robot, such as inheritance and true object oriented programming. There are many books; the three most common ones are Barron's, Princeton Review, and 5 Steps to a Five. Barron's will have the best learning material of the 3. Princeton Review and 5 Steps to a Five are more problem based.
 
 ### Programming Practice
-Succeding in FTC requires one to have experience with the java language. There are a multitude of websites which can allow one to practice various skills.
+Succeding in FTC requires one to have experience with the java language, experience which can't be taught. There are a multitude of websites which can allow one to practice various skills.
 
-While not all of these sites are strictly for Java, they are still valuable for providing questions and getting your feet wet with the language. 
+While not all of these sites are strictly for Java, they are still valuable for providing questions and getting your feet wet with the language.
 
-Additionally, you can use most of these websites for any language - so if you're interseted in learning another language, you can use this as well.
+Additionally, you can use most of these websites for any language - so if you're interested in learning another language, you can use this as well.
 
 Website|Description
 :---------:|:------------------------------------------------------------------
