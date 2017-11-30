@@ -47,3 +47,10 @@ user.
 ```
 ## Guidelines (continued)
  - Git pulls must have all changes documented, excessive commits are discouraged.
+ - All files must start with the latest header format specified in header.md
+ - All files must end with the latest footer format specified in footer.md
+ - All hyperlinks that reference other /r/FTC wiki pages must reference itself relative to the subreddit.
+ For example:
+ ```Markdown
+ More information is at [Java Programming](/r/FTC/wiki/programming/java-programming).
+ ```

@@ -1,0 +1,2 @@
+*All content on this wiki is licensed under the [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) liscense.*
+/r/FTC thanks you for reading this article and asks you to [contribute](https://github.com/GeekyStudios/rFTC-wiki) soon.
