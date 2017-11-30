@@ -1,6 +1,8 @@
 # /r/FTC Wiki
 This readme will act as a guide for how to edit the wiki according to guidelines. __If guidelines are not met, your pull request will NOT be fulfilled__
 
+***Remember, if you want to contribute, make a fork, and then submit a pull request to master.***
+
 ## Guidelines
  - All files must be written in Reddit-compatible Markdown syntax in Markdown (\*.md) files.
  - The text must adhere to a reasonable definition of *Gracious Professionalism*
