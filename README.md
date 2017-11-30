@@ -40,9 +40,9 @@ user.
        |-(FILE) getting-started <- For rookie teams
        |-(FILE) starting-a-team
        |-(FILE) frequently-asked-questions
-       |-(LINK) FIRST-Tech-Challenge
-       |-(LINK) rFTC <-Appearance: "/r/FTC"
-       |-(LINK) FTC-forums
+       |-(LINK) FIRST Tech Challenge
+       |-(LINK) /r/FTC
+       |-(LINK) FTC Forums
        |-(LINK) Chief Delphi
 ```
 ## Guidelines (continued)
