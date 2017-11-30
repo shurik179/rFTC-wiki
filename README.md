@@ -8,16 +8,19 @@ This readme will act as a guide for how to edit the wiki according to guidelines
  - You must adhere to the following file layout unless an urgent reason is provided, major changes to the file layout is discouraged. New files, however, can be added easily provided a good reason.
 ```
 rFTC Wiki (From the point of view of the front page)
+"Appearance" is to clarify how pages will look to the
+user.
 (MAIN) /r/FTC Wiki
-       |-(FOLDER) Building Systems
-       |          |-(FILE) MATRIX Robotics
-       |          |-(FILE) TETRIX by Pitsco
-       |          |-(FILE) GoBilda by Robotzone
-       |          |-(FILE) Actobotics by Robotzone
-       |          |-(FILE) VEX EDR
-       |          |-(FILE) VEX Pro
+       |-(FOLDER) building-systems
+       |          |-(FILE) MATRIX-Robotics
+       |          |-(FILE) TETRIX
+       |          |-(FILE) GoBilda
+       |          |-(FILE) Actobotics
+       |          |-(FILE) VEX-EDR
+       |          |-(FILE) VEX-Pro
        |          |-(FILE) Andymark
-       |          |-(FILE) 80/20
+	   |          |-(FILE) REV-Robotics
+       |          |-(FILE) 8020
        |          |-(NOTE) It is discouraged to add 
        |          | pages for individual building 
        |          | components of little importance, 
@@ -27,18 +30,19 @@ rFTC Wiki (From the point of view of the front page)
        |          | folder with the same name of the 
        |          | building system and placed in 
        |          | this directory.
-       |-(FOLDER) Programming
+       |-(FOLDER) programming
        |          |-(FILE) ftc-app
-       |          |-(FILE) Java Tutorials
-       |          |-(FILE) Android Phone Connections
-       |-(FILE) Building Systems
-       |-(FILE) Programming
-       |-(FILE) Getting Started <- For rookie teams
-       |-(FILE) Starting a team
-       |-(FILE) Frequently Asked Questions
-       |-(LINK) FIRST Tech Challenge
-       |-(LINK) /r/FTC
-       |-(LINK) FTC Forums
+       |          |-(FILE) java-tutorials
+       |          |-(FILE) android-phone-connections
+       |-(FILE) building-systems <-Appearance:
+	   |                          "Building Systems"
+       |-(FILE) programming
+       |-(FILE) getting-started <- For rookie teams
+       |-(FILE) starting-a-team
+       |-(FILE) frequently-asked-questions
+       |-(LINK) FIRST-Tech-Challenge
+       |-(LINK) rFTC <-Appearance: "/r/FTC"
+       |-(LINK) FTC-forums
        |-(LINK) Chief Delphi
 ```
 ## Guidelines (continued)
