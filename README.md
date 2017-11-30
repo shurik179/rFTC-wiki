@@ -19,7 +19,7 @@ user.
        |          |-(FILE) VEX-EDR
        |          |-(FILE) VEX-Pro
        |          |-(FILE) Andymark
-	   |          |-(FILE) REV-Robotics
+       |          |-(FILE) REV-Robotics
        |          |-(FILE) 8020
        |          |-(NOTE) It is discouraged to add 
        |          | pages for individual building 
@@ -35,7 +35,7 @@ user.
        |          |-(FILE) java-tutorials
        |          |-(FILE) android-phone-connections
        |-(FILE) building-systems <-Appearance:
-	   |                          "Building Systems"
+       |                          "Building Systems"
        |-(FILE) programming
        |-(FILE) getting-started <- For rookie teams
        |-(FILE) starting-a-team
