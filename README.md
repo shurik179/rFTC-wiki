@@ -36,12 +36,18 @@ user.
        |          |-(FILE) ftc-app
        |          |-(FILE) java-tutorials
        |          |-(FILE) android-phone-connections
+       |-(FOLDER) electronics
+       |          |-(FILE) control-systems
+       |-(FOLDER) actuators
+       |          |-(FILE) motors
+       |          |-(FILE) servos
        |-(FILE) building-systems <-Appearance:
        |                          "Building Systems"
        |-(FILE) programming
        |-(FILE) getting-started <- For rookie teams
        |-(FILE) starting-a-team
        |-(FILE) frequently-asked-questions
+       |-(FILE) electronics
        |-(LINK) FIRST Tech Challenge
        |-(LINK) /r/FTC
        |-(LINK) FTC Forums
