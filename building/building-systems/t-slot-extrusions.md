@@ -7,7 +7,7 @@ can be made at any point along the length of the extrusion. Using various connec
 These extrusions provide extremely sturdy and compact frame. However, the beams must be cut to size, using a miter saw, which makes these extrusions more difficult to work with than the construction sets such as Actobotics. Still, these extrusions are commonly used by more experienced FTC teams.
 These extrusions come in several sizes; the one most suitable for FTC is 20mm and 1 in. 
 
-T-slot extrusions are also used by a new robot building system, [REV Robotics](/r/FTC/wiki/building-systems/REV-Robotics), described in a separate section. 
+T-slot extrusions are also used by a new robot building system, [REV Robotics](/r/FTC/wiki/building/building-systems/REV-Robotics), described in a separate section. 
 They use 15mm square extrusions.
 
 ## Vendors ##
