@@ -13,45 +13,51 @@ rFTC Wiki (From the point of view of the front page)
 "Appearance" is to clarify how pages will look to the
 user.
 (MAIN) /r/FTC Wiki
-       |-(FOLDER) building-systems
-       |          |-(FILE) MATRIX-Robotics
-       |          |-(FILE) TETRIX
-       |          |-(FILE) GoBilda
-       |          |-(FILE) Actobotics
-       |          |-(FILE) VEX-EDR
-       |          |-(FILE) VEX-Pro
-       |          |-(FILE) Andymark
-       |          |-(FILE) REV-Robotics
-       |          |-(FILE) 8020
-       |          |-(NOTE) It is discouraged to add 
-       |          | pages for individual building 
-       |          | components of little importance, 
-       |          | however, if an important part 
-       |          | like a ServoBlock is given an 
-       |          | article, it can be placed into a 
-       |          | folder with the same name of the 
-       |          | building system and placed in 
-       |          | this directory.
-       |-(FOLDER) programming
-       |          |-(FILE) ftc-app
-       |          |-(FILE) java-tutorials
-       |          |-(FILE) android-phone-connections
-       |-(FOLDER) electronics
-       |          |-(FILE) control-systems
-       |-(FOLDER) actuators
-       |          |-(FILE) motors
-       |          |-(FILE) servos
-       |-(FILE) building-systems <-Appearance:
-       |                          "Building Systems"
-       |-(FILE) programming
-       |-(FILE) getting-started <- For rookie teams
-       |-(FILE) starting-a-team
-       |-(FILE) frequently-asked-questions
-       |-(FILE) electronics
-       |-(LINK) FIRST Tech Challenge
-       |-(LINK) /r/FTC
-       |-(LINK) FTC Forums
-       |-(LINK) Chief Delphi
+|-(FOLDER) building
+| |-(FOLDER) building-systems
+| | |-(FILE) building-systems
+| | |-(FILE) matrix-robotics
+| | |-(FILE) tetrix
+| | |-(FILE) gobilda
+| | |-(FILE) actobotics
+| | |-(FILE) vex-edr
+| | |-(FILE) vex-pro
+| | |-(FILE) andymark
+| | |-(FILE) rev-robotics
+| | |-(FILE) t-slot-extrusions
+| | |-(NOTE) It is discouraged to add 
+| | | pages for individual building 
+| | | components of little importance, 
+| | | however, if an important part 
+| | | like a ServoBlock is given an 
+| | | article, it can be placed into a 
+| | | folder with the same name of the 
+| | | building system and placed in 
+| | | this directory.
+| |-(FOLDER) common-designs
+| | |-(FILE) common-designs
+|-(FOLDER) programming
+| |-(FOLDER) ftc-app
+| | |-(FILE) wifi-direct
+| | |-(FILE) ftc-app
+| |-(FOLDER) java-resources
+| | |-(FILE) java-resources
+| |-(FOLDER) specific-parts
+| | |-(FILE) specific-parts
+| | |-(FILE) cr-servos
+|-(FOLDER) electronics
+| |-(FILE) electronics
+|-(FOLDER) actuators
+| |-(FILE) actuators
+| |-(FOLDER) motors
+| | |-(FILE) motors
+| |-(FOLDER) servos
+| | |-(FILE) servos
+|-(FILE) frequently-asked-questions
+|-(LINK) FIRST Tech Challenge
+|-(LINK) /r/FTC
+|-(LINK) FTC Forums
+|-(LINK) Chief Delphi
 ```
 ## Guidelines (continued)
  - Git pulls must have all changes documented; excessive commits are discouraged.
