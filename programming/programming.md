@@ -14,4 +14,7 @@ __This article is up to date as of Dec 04, 2017.__
 * [Java Resources](/r/FTC/wiki/programming/java/java-resources.md)
 
 # Specific Parts
-* [Continuous Rotation Servo](/r/FTC/programming/specificParts/CRServos.md
+* [Continuous Rotation Servo](/r/FTC/programming/specificParts/CRServos.md)
+
+*All content on this wiki is licensed under the [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) liscense.*
+/r/FTC thanks you for reading this article and asks you to [contribute](https://github.com/GeekyStudios/rFTC-wiki) soon.
