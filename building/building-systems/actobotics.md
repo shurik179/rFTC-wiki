@@ -9,24 +9,40 @@ Actobotics is a construction set distributed by ServoCity: http://servocity.com.
 It is similar to Tetrix, but the channels are slightly larger (cross-section of 1.5x1.5 in, or approximately 39x39 mm, 
 as opposed to 32x32 mm for Tetrix), and the hole pattern is more complicated. 
 
+Actobotics provides much wider choice of components than Tetrix, in particular 
+offering stronger axles, ball bearings, servo mounts and more. 
+ServoCity offers a 25% discount to all FTC teams, which is a great deal; in 
+addition, they provide limited number of sponsorships to FTC teams every year. 
+To find out more, visit  https://www.servocity.com/first
 
-Actobotics provides a much wider choice of components than Tetrix, in particular offering stronger axles, ball bearings, servo mounts and more. 
-ServoCity offers a 25% discount to all FTC teams, which is a great deal; in addition, they provide a limited number of sponsorships to FTC teams every year. To find out more, visit  their [FIRST Hub](https://www.servocity.com/first)
+The best way to get started with Actobotics is by getting their  
+[FTC competition kit](https://www.servocity.com/ftc-competition-kit). 
+As of December 2017, the price is $479.99 after FTC discount. The kit  comes with a choice of Neverest motors; 
+most teams would need four NeveRest 40 motors.
 
+## Axles, hubs, bearings 
+* __Axles__. Actobotics is most commonly used with [1/4in D profile axles](https://www.servocity.com/0-250-1-4-stainless-steel-d-shafting). Actobotics can also be used with  [D-profile 6mm axle](http://www.andymark.com/6mm-D-Shaft-p/am-6mmdshaft.htm) sold by AndyMark. 
+* __Bearings__. Actobotics provides [ball bearings](https://www.servocity.com/motion-components/rotary-motion/bearings-bushings/ball-bearings), which are available  for 1/4 in and 6mm shafts. 
+* __Hubs__.  For attaching wheels, gears, and sprockets to axles, you need hubs. It is highly recommended to use D-profile hubs, 
+available in [set screw] (https://www.servocity.com/0-770-set-screw-d-hubs) (uses #10 set screw; tighten with 3/32 hex key) 
+and [clamping](https://www.servocity.com/0-770-clamping-d-hubs) versions. The D-profile set screw hubs are far superior 
+to the regular set screw hubs; clamping D-profile hubs are even better. The main drawback of clamping hubs is 
+that they are not compatible with small (16 tooth) sprockets: the clamping part of the hub would hit the chain. 
+To avoid this problem, use set screw hubs or put a hub spacer between the hub and sprocket. 
 
-The best way to get started with Actobotics is by getting their  [FTC competition kit](https://www.servocity.com/ftc-competition-kit). As of December 2017, the price is $479.99 after FTC discount. The kit comes with a choice of motors; most teams would need four NeveRest 40 motors.
-
-
-Actobotics hole pattern is not compatible with Tetrix, but there are [adapters](https://www.servocity.com/hub-adaptor-b) allowing one to connect Actobotics to Tetrix.
+To connect Actobotics hubs to Tetrix components, use [Actobotics to Tetrix adapter](https://www.servocity.com/hub-adaptor-b). To connect Actobotics hubs to wheels and sprockets using AndyMark hole pattern, use AndyMark's [conversion plate](https://www.andymark.com/product-p/am-2609a.htm).
 
 ## Structural Components ##
+Actobotics provides a number of structure elements; most commonly used ones are listed below. All of them are intended to be used 
+with #6-32 screws (same size as used by Tetrix). 
+
 ### Actobotics Hole Patterns - ([link](https://www.servocity.com/hole-pattern-information)) ###
 There are a number of hole patterns, or spacing of pre-drilled and pre-tapped holes, used in COTS building systems. Actobotics primarily uses the 0.770" hole pattern. Some parts also support the 1.50" hole pattern.
 
 You can see more detailed information about hole patterns [here](https://www.servocity.com/hole-pattern-information).
 
 ### Standard Channel - ([link](https://www.servocity.com/structural-components/channel)) ###
-The primary structural component in Actobotics robots/mechanisms is the Standard Channel. These are Aluminum U-Channels with the Actobotics Hole pattern (detailed above) pre-drilled into them, coming in a wide variety of lengths, from 1.5" to 48". Many of Actobotics' components are designed to fit on or in the channels, which makes building in the Actobotics ecosystem easy. The channel uses 0.770" and 1.50" hole patterns repeating across the length of the channel on all three sides.
+The primary structural component in Actobotics robots/mechanisms is the Standard Channel. These are Aluminum U-Channels with the Actobotics Hole pattern (detailed above) pre-drilled into them, coming in a wide variety of lengths, from 1.5" to 48". Many of Actobotics' components are designed to fit on or in the channels, which makes building in the Actobotics ecosystem easy. The channel uses 0.770" and 1.50" hole patterns repeating across the length of the channel on all three sides every 0.75".
 
 Property | Value
 :--|:--
@@ -40,6 +56,8 @@ Pattern Spread | 0.75"
 Channels can be connected to each other in a number of ways, but the most recommended way is to use the [Side Tapped Pattern Mount C](https://www.servocity.com/90-quad-hub-mount-c). More information about this product can be found below or on its product page.
 
 ### Mini Channel - ([link](https://www.servocity.com/structural-components/channel/mini-channel)) ###
+These mini-channels 
+are much slimmer than regular channels  (0.585 x 0.37 in, or approximately 15 x 9.5 mm). Very useful for arms and other mechanisms. 
 Actobotics Mini Channel is similar to Standard Channel, but smaller and without most of the holes. It can also be used in building your robot, but it may not be suitable for most mechanisms. The channel only has one pattern of holes, spaced at half of the 0.770" hole pattern (therefore it is compatible with 0.770" patterns). This pattern is along the length of the channel on all three sides. Actobotics Beams will fit just inside the mini channel, making a great combination for unfolding mechanisms.
 
 Property | Value
@@ -70,6 +88,8 @@ Wall Thickness | 0.09" | 0.09" | 0.09"
 
 ### Beams - ([link](https://www.servocity.com/structural-components/beams)) ###
 Actobotics Beams are small and easy to use for various support or mechanism applications. The beams follow the same half-0.770" hole pattern as Mini Channel. Beams are sold in Aluminum and Plastic. While both selections have the same range in lengths, the plastic beams have more variety in pre-cut lengths. The beams also have a thickness of 0.25", the same as the inside width of the Mini channel, so the beams fit nicely in Mini Channel, making a great combination for unfolding mechanisms.
+Actobotics hole pattern is not compatible with Tetrix, but there are 
+[adapters](https://www.servocity.com/hub-adaptor-b) allowing one to connect Actobotics to Tetrix.
 
 Property | Value
 :--|:--
@@ -218,7 +238,6 @@ Actobotics belts are XL profile, 3/8" wide, and 1/5" pitch. Actobotics sells the
 
 [Timing Pinion Pulleys](https://www.servocity.com/motion-components/rotary-motion/pulleys-belts/timing-pulleys-belts/timing-pinion-pulleys) can mount directly to an Actobotics or Neverest shaft. The [15 Tooth Pinion Pulley](https://www.servocity.com/15-tooth-pinion-pulleys) can be used with Actobotics belts to match the hole pattern and can fit _inside_ a Standard Channel.
 
-&nbsp;
 
 ## Wheels ##
 
@@ -228,7 +247,6 @@ Actobotics Heavy Duty wheels come in [4"](https://www.servocity.com/4-heavy-duty
 ### Omni Wheels ###
 Actobotics' [Omni wheels](https://www.servocity.com/4-omni-wheel) can be mounted directly to 0.770" hubs. They are robust enough for FTC. [This image](https://www.servocity.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/5/9/595671-b_3.jpg) demonstrates mounting two of these wheels together with a hub, though instead of 545579 it may be a good idea to use the [D-Hub](https://www.servocity.com/0-770-set-screw-d-hubs) of your choice.
 
-&nbsp;
 
 ## Linear Motion ##
 
@@ -247,7 +265,17 @@ Stub
 ### Channel Sliders ###
 Stub
 
-&nbsp;
+*All content on this wiki is licensed under the [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) liscense.*
+/r/FTC thanks you for reading this article and asks you to [contribute](https://github.com/GeekyStudios/rFTC-wiki) soon.
+=======
+## Wheels
+Actobotics provides [regular 4 in diameter wheels](https://www.servocity.com/4-heavy-duty-wheel) and  
+[omni wheels](https://www.servocity.com/4-omni-wheel). Both are reliable and easy to attach. The regular 4 in wheels provide 
+good traction on foam tiles, but if you need to climb ramps made of plastic or Euroboard (as it was in FTC 2015-16 RES-Q Mission), you might need grippier wheels such as AndyMark's [stealth wheels](http://www.andymark.com/Stealth-Wheels-p/am-stealthwheel.htm).
+
+## ServoBlocks 
+An extremely  popular item sold by Actobotics is their [ServoBlocks](https://www.servocity.com/servos/servoblocks). These assemblies act as an exoskeleton for servos, supporting lateral load on the servo spline. They are highly recommended in all situations where a servo is subjected to any side loads. 
+
 
 *All content on this wiki is licensed under the [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) liscense.*
 /r/FTC thanks you for reading this article and asks you to [contribute](https://github.com/GeekyStudios/rFTC-wiki) soon.
